@@ -42,3 +42,7 @@ Once logged in, the user will have access to this page, which allows them to cre
 ### List Contact
 
 This page lists all the available contacts that the user has logged using the Add Contact page. Here, the user can edit details about each contact, as well as create time-stamped notes for each contact. 
+
+### Admin
+
+This page is designated specifically for admin users, and gives them access to every contact in the database.
